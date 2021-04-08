@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Full Stack Developer [Android && WEB] <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Full Stack Developer [Android && WEB] <img src="https://media.giphy.com/media/xUOrwizmKFlodO7tEk/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="https://www.github.com/manismachine"> Freelance | OpenSource </a><img src="https://media.giphy.com/media/xUOrwizmKFlodO7tEk/giphy.gif" width="30"> 
 </em></p>
