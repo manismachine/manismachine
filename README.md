@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Full Stack Developer [Android && WEB] <img src="https://media.giphy.com/media/xUOrwizmKFlodO7tEk/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Full Stack Developer [Android && Backend] <img src="https://media.giphy.com/media/xUOrwizmKFlodO7tEk/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/xUOrwizmKFlodO7tEk/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="https://www.github.com/manismachine"> Freelance | OpenSource </a><img src="https://media.giphy.com/media/xUOrwizmKFlodO7tEk/giphy.gif" width="30"> 
 </em></p>
@@ -10,27 +10,22 @@
 
 ```javascript
 const me = {
-    pronouns: "He" | "Him",
-    code: ["Java", "Nodejs", "kotlin", "Python", "php"],
-    askMeAbout: ["android app dev", "web app dev", "tech", "cyber security"],
+    code: ["Java","Python"],
+    askMeAbout: ["android app dev", "rest api dev", "tech", "cyber security"],
     technologies: {
         mobileApp: {
             lang: ["java", "kotlin"],
-            atchitecture: ["mvvm", "mvc", "mvp"],
-            lib: ["Dagger", "RxJava", "Retrofit"]
+            atchitecture: ["mvvm", "mvc"],
+            lib: ["Dagger", "Retrofit"]
             db: ["Room", "sqlite"]
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["Django"],
-            php: ["code igniter"]
+            python: ["Flask"]
         },
         devOps: ["AWS", "Docker🐳", "firebase", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "php CI"]
+        misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "MERN stack",
-    funFact: "Work is a never ending process"
 };
 ```
