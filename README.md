@@ -1,6 +1,6 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Full Stack Developer [Android && Backend] <img src="https://media.giphy.com/media/xUOrwizmKFlodO7tEk/giphy.gif" width="50"></h2>
+<h2>Full Stack Developer [Android && Backend]</h2>
 <img align='right' src="https://media.giphy.com/media/xUOrwizmKFlodO7tEk/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.github.com/manismachine"> Freelance | OpenSource </a><img src="https://media.giphy.com/media/xUOrwizmKFlodO7tEk/giphy.gif" width="30"> 
+<p><em>App Developer at <a href="https://www.github.com/manismachine"> Freelance | OpenSource </a><img src="https://media.giphy.com/media/xUOrwizmKFlodO7tEk/giphy.gif" width="30"> 
 </em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/manismachine?label=Follow&style=social)
